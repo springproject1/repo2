@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 //@EnableAutoConfiguration
+//This is my second commit
 public class Example {
 	@RequestMapping("/")
 	//@Produces("text/plain")
